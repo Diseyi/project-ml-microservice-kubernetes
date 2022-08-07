@@ -1,6 +1,6 @@
 [![diseyi](https://circleci.com/gh/diseyi/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/diseyi/project-ml-microservice-kubernetes)
 
-## Project Overview
+##  Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
 
